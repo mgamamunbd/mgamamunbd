@@ -1,6 +1,7 @@
 {
   "projects": {
-    "staging": "mgamamunbd-c98d0"
+    "staging": "mgamamunbd-c98d0",
+    "default": "mgamamunbd-c98d0"
   },
   "targets": {}
 }
