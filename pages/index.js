@@ -1,8 +1,10 @@
 /** @format */
 
-function Home() {
+import React from "react";
+
+const index = () => {
   return (
-    <div className='home container'>
+    <div>
       <h1>Home</h1>
       <p>Site is under construction</p>
       <p>Contact: MGA Mamun</p>
@@ -11,5 +13,6 @@ function Home() {
       <p>Email: mgamamunbd@gmail.com</p>
     </div>
   );
-}
-export default Home;
+};
+
+export default index;
