@@ -1,7 +1,11 @@
 /** @format */
 
-const footer = () => {
-  return <div></div>;
+const Footer = () => {
+  return (
+    <div>
+      <p>Footer</p>
+    </div>
+  );
 };
 
-export default footer;
+export default Footer;

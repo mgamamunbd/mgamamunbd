@@ -1,7 +1,11 @@
 /** @format */
 
-const header = () => {
-  return <div></div>;
+const Header = () => {
+  return (
+    <div>
+      <p>Header</p>
+    </div>
+  );
 };
 
-export default header;
+export default Header;
